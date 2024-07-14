@@ -2,5 +2,6 @@
     "sonarlint.connectedMode.project": {
         "connectionId": "nghgkim",
         "projectKey": "nghgkim_AIO2024_Exercises"
-    }
+    },
+    "python.analysis.autoImportCompletions": true
 }
